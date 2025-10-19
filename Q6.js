@@ -13,7 +13,7 @@ artTools[2] = "watercolour paint"
 
 console.log(artTools[1]);
 /**I can print out a specific value from the array
- * Since I selected the index value of 2, the 3rd value will be printed out
+ * Since I selected the index value of 1, the 2nd value will be printed out
  */
 
 artTools.push("apron");
