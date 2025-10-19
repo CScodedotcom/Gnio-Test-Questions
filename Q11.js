@@ -9,7 +9,10 @@ function reverseStringA(str) {
   return product;
 }
 
-console.log(reverseStringA("Claudia"));
+console.log(reverseStringA("Claudia")); 
+// expected output: aidualC
 console.log(reverseStringA("Hello world!"));
+//expected output: !dlrow olleH
 console.log(reverseStringA("123456789"));
+//expected output: 987654321
 //logging onto console and if there arent any erorrs my code should run flawlessly
