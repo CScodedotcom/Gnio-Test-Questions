@@ -1,5 +1,5 @@
 const artTools = ["canvas", "paintbrush", "oil paint"];
-//my list of arTools
+//my list of artTools
 
 for (let c = 0; c < artTools.length; c++) {
   console.log(artTools[c]);
